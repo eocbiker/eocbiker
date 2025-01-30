@@ -1,5 +1,5 @@
 ---
-title: "My First Post"
+title: "Camping Bicycle Tours"
 description: "Fully Supported Camping Bicycle Tours"
 subheading: "in the tri-state area"
 date: 2025-01-30
@@ -11,7 +11,7 @@ layout: post
 
   
 
-**GOBA June 14-21 2025**
+ # GOBA June 14-21 2025**
 
 before February 2 $460.00 After Feb 2, $510.00
 
