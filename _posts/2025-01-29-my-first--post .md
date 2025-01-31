@@ -8,7 +8,6 @@ permalink: /:year/:month/:day/:title/
 image: "https://i.imgur.com/XCdeqybl.jpg" # Full URL
 ---
 
----
 
 
 
