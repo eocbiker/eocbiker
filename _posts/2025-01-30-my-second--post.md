@@ -1,5 +1,5 @@
 ---
-title: "Camping Bicycle Tours"
+title: "Fully Supported Camping Bicycle Tours"
 description: "Fully Supported Camping Bicycle Tours"
 subheading: "in the tri-state area"
 date: 2025-01-30
