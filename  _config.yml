@@ -4,4 +4,4 @@ description:        A Blog Theme by Start Bootstrap
 author:             Start Bootstrap
 baseurl: /eocbiker  # Replace /yourrepository with your actual repository name
 url: "https://eocbiker.github.io/eocbiker/" # Your full GitHub Pages URL (without the repo name)
-permalink: /:title/ # Example: /my-post/
+
