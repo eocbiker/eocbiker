@@ -10800,6 +10800,18 @@ header.masthead .post-heading .meta a {
 
 .post_description {
   
-  font-size: 2em; /* Example: 16 pixels */
+  font-size: 1.2em; /* Example: 16 pixels */
   font-weight: bold; /* or 700, 800, 900 */
+}
+
+.post_url {
+  font-size: 1.5em; /* Example: 16 pixels */
+  font-weight: bold; /* or 700, 800, 900 */
+  list-style: none;
+
+}
+
+ul {
+  list-style: none;
+
 }
