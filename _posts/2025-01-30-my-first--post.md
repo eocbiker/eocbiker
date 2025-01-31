@@ -7,7 +7,7 @@ layout: post
 permalink: /:year/:month/:day/:title/
 ---
 
-[enter image description here](https://i.imgur.com/iClGvMg.jpg)
+
 
 # Fully Supported Camping Bicycle Tours
 <br>
