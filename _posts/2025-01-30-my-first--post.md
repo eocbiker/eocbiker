@@ -5,6 +5,9 @@ subheading: "in the tri-state area"
 date: 2025-01-30
 layout: post
 permalink: /:year/:month/:day/:title/
+image: "https://i.imgur.com/iClGvMgm.jpg" # Full URL
+---
+
 ---
 
 
