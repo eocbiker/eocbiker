@@ -2,6 +2,6 @@ title:              Clean Blog
 email:              your-email@example.com
 description:        A Blog Theme by Start Bootstrap
 author:             Start Bootstrap
-baseurl:            "/eocbiker"
-url:                "https://eocbiker.github.io"
+baseurl: /eocbiker  # Replace /yourrepository with your actual repository name
+url: "https://eocbiker.github.io/eocbiker/" # Your full GitHub Pages URL (without the repo name)
 permalink: /:title/ # Example: /my-post/
