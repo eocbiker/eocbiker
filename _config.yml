@@ -2,6 +2,6 @@ title:              Erie Outdoor Pursuits Blog
 email:              your-emai@example.com
 description:        A Blog Theme by Start Bootstrap
 author:             Start Bootstrap
-baseurl: /eocbiker  # Replace /yourrepository with your actual repository name
-url: "https://eocbiker.github.io/eocbiker/" # Your full GitHub Pages URL (without the repo name)
+baseurl:''  # Replace /yourrepository with your actual repository name
+url: "https://blog.erieoutdoorpursuits.net/" # Your full GitHub Pages URL (without the repo name)
 
