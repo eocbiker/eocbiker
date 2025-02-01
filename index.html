@@ -1,0 +1,32 @@
+---
+layout: default
+title: Erie Outdoor Pursuits Blog
+---
+
+
+             <!-- Post preview-->
+
+             <h1>My Blog Posts</h1>
+             <br>
+             <br>
+             <ul>
+                 {% for post in site.posts %}
+                     <li>
+                         <h2>
+                             <a class="post_url" href="{{ post.url | relative_url }}">{{ post.title }}</a>
+                         </h2>
+                         <br><p class="post_description">{{ post.description }}</p>
+                         </li>
+                 {% endfor %}
+             </ul>
+
+             <!-- Divider-->
+             <hr class="my-4"/>
+             <!-- Pager-->
+             <!--  <div class="d-flex justify-content-end mb-4">
+                 <a class="btn btn-primary text-uppercase" href="#!">Older Posts →</a>
+             </div>-->
+         </div>
+     </div>
+ </div>
+
