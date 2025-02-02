@@ -1,13 +1,11 @@
 ---
+layout: post
 title: "Fully Supported Camping Bicycle Tours"
 description: "Fully Supported Camping Bicycle Tours"
-subheading: "in the tri-state area"
+subheading: "and the tri-state area"
+image: "https://i.imgur.com/XCdeqybm.jpg"
 date: 2025-01-30
-layout: post
 permalink: /:year/:month/:day/:title/
-image: "https://i.imgur.com/iClGvMgl.jpg" # Full URL
----
-
 ---
 
 
