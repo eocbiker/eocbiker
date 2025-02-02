@@ -10,7 +10,7 @@ permalink: /:year/:month/:day/:title/
 
 
 
-# Fully Supported Camping Bicycle Tours
+# Fully Supported Camping Bicycle Tours in the Tri-State Area
 <br>
 <br>
 
