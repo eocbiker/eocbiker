@@ -4,4 +4,5 @@ description:        A Blog Theme by Start Bootstrap
 author:             Start Bootstrap
 baseurl: ""  # Or "/your-site-subdirectory"
 url: "https://blog.erieoutdoorpursuits.net/" # Your full GitHub Pages URL (without the repo name)
+markdown: kramdown
 
