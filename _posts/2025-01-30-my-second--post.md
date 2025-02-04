@@ -8,7 +8,7 @@ date: 2025-01-30
 permalink: /:year/:month/:day/:title/
 ---
 
-![Alt Text](https://i.imgur.com/iClGvMgm.jpg)
+![Alt Text](https://i.imgur.com/iClGvMgl.jpg)
 
 
 
