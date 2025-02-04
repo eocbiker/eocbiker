@@ -8,9 +8,7 @@ date: 2025-01-30
 permalink: /:year/:month/:day/:title/
 ---
 
-<img src="https://i.imgur.com/Kg6UYVpm.jpg" alt="Trulli">
-![Camping Bicycle Tours](https://i.imgur.com/iClGvMg.jpg)
-![Alt Text](https://i.imgur.com/Kg6UYVpm.jpg)
+
 
 
 
